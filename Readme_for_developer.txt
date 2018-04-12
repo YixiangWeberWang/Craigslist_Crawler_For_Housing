@@ -6,3 +6,7 @@ Python version: 3.6
 
 Libraries prerequisites:
 urllib, bs4, cx_Freeze
+
+Main function: cragCraw_v3.py
+For building .exe file: Use setup.py
+Type "python setup.py build" in your ipython console
